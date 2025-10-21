@@ -1,0 +1,21 @@
+#!/bin/bash
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f10/64 dev eth0:2
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f11/64 dev eth0:3
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f12/64 dev eth0:4
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f13/64 dev eth0:5
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f14/64 dev eth0:6
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f15/64 dev eth0:7
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f16/64 dev eth0:8
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f17/64 dev eth0:9
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f18/64 dev eth0:10
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f19/64 dev eth0:11
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f20/64 dev eth0:12
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f21/64 dev eth0:13
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f22/64 dev eth0:14
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f23/64 dev eth0:15
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f24/64 dev eth0:16
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f25/64 dev eth0:17
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f26/64 dev eth0:18
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f27/64 dev eth0:19
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f28/64 dev eth0:20
+sudo ip address add 2a01:4b00:d119:1c00:925c:8c0f:6fd1:2f29/64 dev eth0:21
