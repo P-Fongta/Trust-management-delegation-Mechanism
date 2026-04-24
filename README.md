@@ -12,8 +12,8 @@ Installation and setup:
   1.	Install the required software and libraries.
   2.	Clone the repository from GitHub onto the nodes that will act as the delegator, delegate, TSS, and trustee: git clone https://github.com/P-Fongta/Trust-management-delegation-Mechanism.git 
   3.	Start all protocol components according to the following execution sequence:
-      1.	Start the Trust Service Server (TSS).
-      2.	Start one or more delegate nodes and register their offered delegation services with the TSS.
-      3.	Configure the required trust model, evidence types, and delegation roles on the delegator node and start the delegator node.
-      4.	Experimental results are saved in text files.
+       1. Start the Trust Service Server (TSS).
+       2. Start one or more delegate nodes and register their offered delegation services with the TSS.
+       3.	Configure the required trust model, evidence types, and delegation roles on the delegator node and start the delegator node.
+       4.	Experimental results are saved in text files.
 
